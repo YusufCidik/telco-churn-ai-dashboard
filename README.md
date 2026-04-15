@@ -1,4 +1,4 @@
-# Telco Churn Prediction & AI Analytics Dashboard
+# Telco Churn Prediction & AI Analytics Dashboard (Model Source Code In Docs)
 
 Professional portfolio project that combines **churn prediction**, **explainable AI**, and an interactive **retention intelligence dashboard** for telecom customers.
 
