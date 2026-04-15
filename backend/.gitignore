@@ -1,0 +1,18 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env and local overrides
+.env
+.env.*
+
+# Local runtime files
+*.log
+tmp/
+temp/
+
+# Model binaries ignored by default
+*.pkl
+!app/models/*.pkl
