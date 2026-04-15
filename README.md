@@ -87,6 +87,9 @@ If you prefer not to commit them:
 - `POST /api/analyze` - batch churn prediction + explainability + commentary
 - `POST /api/coupon` - value-aware retention offer generation
 
+## Demo Video (Drive Link)
+- Project's Demo Video Drive Link is -> https://drive.google.com/file/d/1y-7W4kktDsiq_nGafifNrPjkNw-sXTBw/view?usp=sharing  
+
 ## Screenshots (Placeholders)
 
 Add your screenshots under `docs/screenshots/` and update links below:
