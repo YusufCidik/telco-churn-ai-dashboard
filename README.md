@@ -91,6 +91,7 @@ If you prefer not to commit them:
 
 Add your screenshots under `docs/screenshots/` and update links below:
 
-![Dashboard Overview](docs/screenshots/dashboard-overview.png)
-![Customer Explainability Panel](docs/screenshots/customer-explainability.png)
-![Churn Distribution Analytics](docs/screenshots/churn-distribution.png)
+![Dashboard Overview](docs/screenshots/ui.png)
+![Customer Explainability Panel](docs/screenshots/explain.png)
+![Metrics Analytics](docs/screenshots/graph.png)
+![SHAP Analysis](docs/screenshots/shap.png)
